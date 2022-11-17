@@ -11,6 +11,7 @@ Some of these shortcuts are still a work in progress and are subject to change.
    - Jamf Pro URL
       - The value for this variables should be your Jamf Pro URL, i.e. https://server.jamfcloud.com
 ![IMG_0243](https://user-images.githubusercontent.com/23343243/202489833-b9b473a3-6e1f-4c34-beb3-8d3dd2cbec6a.jpg)
+![IMG_0243](https://user-images.githubusercontent.com/23343243/202490011-3aa80f77-8ed9-44c5-ac0a-47b9b91bd4c4.jpg)
 
 
 ## Shortcuts:
