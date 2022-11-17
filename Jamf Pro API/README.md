@@ -16,9 +16,13 @@ Some of these shortcuts are still a work in progress and are subject to change.
 ## Shortcuts:
 
 #### Generate a bearer token: [Link](https://www.icloud.com/shortcuts/07523b671101426db826ab8425f5d88a)
+Updated: 11.16.2022
 
 #### Invalidate a bearer token: [Link](https://www.icloud.com/shortcuts/f1ff1388c4324399bb8a5f9117b143a1)
+Updated: 11.16.2022
 
 #### Get computer details by serial: [Link](https://www.icloud.com/shortcuts/0027b4089c3f4349b36daf2460fe2d71)
+Updated: 11.16.2022
 
 #### Redeploy Jamf Framework: [Link](https://www.icloud.com/shortcuts/c1900371d02c47fc9907cbba866e52eb)
+Updated: 11.17.2022
