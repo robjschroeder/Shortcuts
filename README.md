@@ -1,2 +1,2 @@
 # Shortcuts
-Shortcuts mainly used on iOS
+Shortcuts that I use, free to you!
